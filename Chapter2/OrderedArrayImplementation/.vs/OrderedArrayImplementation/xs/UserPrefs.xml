@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{39BE3240-783A-430F-B441-4BDAB33D5524}|Default">
+  <MonoDevelop.Ide.ItemProperties.OrderedArrayImplementation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrderedArrayImplementation/Program.cs">
+    <Files>
+      <File FileName="OrderedArrayImplementation/Program.cs" Line="13" Column="33" />
+      <File FileName="OrderedArrayImplementation/OrderedArray.cs" Line="36" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrderedArrayImplementation" expanded="True">
+            <Node name="OrderedArrayImplementation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
